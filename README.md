@@ -1,2 +1,4 @@
 # pixel
-this is probably going to be a project
+this is where i put a majority of the shit fo rmy linux system
+
+`f`

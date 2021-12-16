@@ -22,8 +22,6 @@ else
 
 --THIS SHIT FINALLY WORKS OMFGMGMGNGIJNFDKNDJ--
 
-    require "math"
-
 if name ~= "Kae" then
 messages={"You are going to do great. Believe.", "There is only one person that can be there everyday. That would be you.", "The sunshines are brighter than the smiles on your face"}
 randomNumber = math.random(1, 3)

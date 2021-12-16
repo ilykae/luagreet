@@ -1,3 +1,4 @@
+
 --[[
 This is proof of concept.
 This is not going to be finished for some time.
@@ -18,11 +19,18 @@ name = io.read()
 if name == "Kae" then
     print "Looking good."
 else
+
+--THIS SHIT FINALLY WORKS OMFGMGMGNGIJNFDKNDJ--
+
+    require "math"
+
 if name ~= "Kae" then
-    print "Hello there."
-end      
+messages={"You are going to do great. Believe.", "There is only one person that can be there everyday. That would be you.", "The sunshines are brighter than the smiles on your face"}
+randomNumber = math.random(1, 3)
+print (messages[randomNumber])
+end
+
 if name == "honor" then
    easterEggs()
     end
 end
-

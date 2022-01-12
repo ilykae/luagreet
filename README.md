@@ -6,4 +6,4 @@ Simply a motivational/greeting script from the stuff that i've learnt.
 
 Star and contribute to me on github!
 
-I thought i lost this.
+I thought I lost this.
